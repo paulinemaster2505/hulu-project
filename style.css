@@ -1,6 +1,6 @@
 .HeroSection {
     background-color: #A8A8AA;
-    height: 300px;
+    height: 550px;
     width: 100%;
 }
 .Section-One {
@@ -10,17 +10,17 @@
 }
 .Section-Two {
     background-color: #000000;
-    height: 400px;
+    height: 600px;
     width: 100%;
 }
 .Section-Three {
     background-color: #424040;
-    height: 200px;
+    height: 580px;
     width: 100%;
 }
 .Section-Four {
     background-color: #17B86A;
-    height: 300px;
+    height: 600px;
     width: 100%;
 }
 .Footer {
@@ -28,5 +28,6 @@
     height:380px;
     width:100%;
 }
+
 
 }
