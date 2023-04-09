@@ -1,6 +1,6 @@
 body {
-box-sizing: border-box;
-margin-top: 0%;
+    box-sizing: border-box;
+    margin: 0%;
 }
 .HeroSection {
     background-color: #A8A8AA;
@@ -36,4 +36,3 @@ margin-top: 0%;
 
 
 
-}
