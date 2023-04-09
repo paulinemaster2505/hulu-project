@@ -1,3 +1,7 @@
+body {
+box-sizing: border-box;
+margin-top: 0%;
+}
 .HeroSection {
     background-color: #A8A8AA;
     height: 550px;
@@ -27,7 +31,9 @@
     background-color:#f7ebebe1;
     height:380px;
     width:100%;
+    Padding: 90px 40px;
 }
+
 
 
 }
